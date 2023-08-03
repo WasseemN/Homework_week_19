@@ -23,7 +23,7 @@ The developed web interface tool develped using *Streamline* allows the user to 
 * The `Send Trancation` button will digitall sign the transaction and send to the Ganash blockchain, displaying the transaction hash code for reference.
 
 
-## **Application Outcome**
+## **Testing the Crypto Wallet**
 Here is an example of how the details of the avaiable candidates are presented on the web page.
 
 
@@ -39,8 +39,6 @@ The below snapshot shows the control buttons and menus displaying the amount owe
 
 
 ##### <center>Figure 2 - Transaction Amount & Hash
-
-## **Testing the PyChain Ledger**
 
 The transaction will appear on the Ganache transactions tab showing the amount transferred and the transaction hash as a reference.
 
